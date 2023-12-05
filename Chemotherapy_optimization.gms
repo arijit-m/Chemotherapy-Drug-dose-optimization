@@ -1,3 +1,5 @@
+***Code in GAMS***
+
 Parameters
     s influx rate (0 < s < 0.5) /0.33/,
     rho rate of immune response per capita (0 ≤ ρ ≤ 1) /0.01/,
